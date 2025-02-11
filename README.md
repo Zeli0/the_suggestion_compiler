@@ -1,7 +1,7 @@
 # The Suggestion Compiler
 
 Powered by Expo  
-View the documentation [here](https://docs.expo.dev/get-started/introduction/)
+View the application readme [here](./the_suggestion_compiler/README.md)
 
 ## Usage instructions
 1. Download our app
